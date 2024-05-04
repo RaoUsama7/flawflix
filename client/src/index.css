@@ -1,0 +1,21 @@
+ @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;400;700&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    /* color: #fff; */
+    color: #F9FAFB;
+}
+/* //
+
+#414a4c
+
+#3b444b
+#353839
+#232b2b
+#0e1111
+
+*/

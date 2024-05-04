@@ -1,0 +1,23 @@
+//  color for bg #162447
+//  color for  #E91E63
+// dark #50577A
+
+//  dark #292643  bg Dark
+//  color for others  #9C2780
+
+// // @ Add category and line
+
+// //  ! add video Cards
+// @ add animation to separator
+// // ! add hover animation to video Cards
+// // added logo
+// // # add Video details Page
+// // ! add video to video details page
+//# enable searching
+
+//$ enable tag searching
+// // # add custom font
+//@ enable video rendering
+
+//@ Add addMovies Cards
+//!optimize react query

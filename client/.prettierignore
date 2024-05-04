@@ -1,0 +1,9 @@
+# Ignore artifacts:
+build
+coverage
+*.json
+.json
+.eslint
+.eslintrc.json
+package.json
+*.cjs
