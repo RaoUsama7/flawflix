@@ -9,6 +9,6 @@ export default [
     videoUrl: 'https://www.youtube.com/embed/E4ZJxhyAaH8',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam quae consequuntur facere animi labore unde optio recusandae doloribus suscipit! Similique, neque. Similique laboriosam earum repellendus atque voluptates, assumenda animi nulla voluptas dolores nam? Porro culpa natus, quod atque velit numquam.',
-    director: 'Aariyan Apu',
+    director: 'Usama',
   },
 ];
